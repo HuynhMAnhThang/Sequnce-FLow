@@ -1,0 +1,6 @@
+Bước 1 : clone về
+bước 2 : tạo project sequnce vào folder
+bước 3 :git add .
+bước 4: git commmit -m"mô tả làm gì"
+bước 5 : git push -u origin master
+bước 6: khi cần lấy về từu trên git thì dùng : git push để đồng bộ hóa
